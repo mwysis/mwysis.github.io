@@ -10,6 +10,4 @@ categories: jekyll update
 
 ![alt text](http://static.in.gr/webstatic/A809D1C497CEDCCC82A1360CE4884351.jpg)
 
-# ![Δοκιμή τοποθέτησης εικόνας](http://mwysis.github.io/images/pan.jpg)
-
 ![Δοκιμή τοποθέτησης pdf](http://mwysis.github.io/images/BorgattiHalgin_OnNetworkTheory.pdf)
