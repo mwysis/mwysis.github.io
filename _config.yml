@@ -1,0 +1,11 @@
+# Site settings
+title: Το Μπλογκ του Μωυσή Μπουντουρίδη
+email: Moses.Boudourides@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mwysis.github.io" # the base hostname & protocol for your site
+twitter_username: mosabou
+github_username:  mwysis
+
+# Build settings
+markdown: kramdown
