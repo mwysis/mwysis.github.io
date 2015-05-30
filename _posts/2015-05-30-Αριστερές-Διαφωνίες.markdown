@@ -9,5 +9,3 @@ categories: jekyll update
 [Από το in.gr](http://news.in.gr/greece/article/?aid=1500001316)
 
 ![alt text](http://static.in.gr/webstatic/A809D1C497CEDCCC82A1360CE4884351.jpg)
-
-[Δοκιμή τοποθέτησης pdf](http://mwysis.github.io/images/BorgattiHalgin_OnNetworkTheory.pdf)
