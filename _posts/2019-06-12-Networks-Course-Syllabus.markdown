@@ -1,4 +1,4 @@
-**Course title: Networks**</font><br />
+**Course title: Networks**<br />
 **Credits: 4.0**<br />
 **Prereqs: None**<br /> 
 **Faculty: Moses Boudourides**<br />
