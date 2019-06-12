@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Για το Μπλογκ
+title: About this blog
 permalink: /about/
 ---
 
-Αυτό είναι το (νέο) προσωπικό μου μπλογκ. 
+This is my new updated blog.
 
-Επέλεξα να χρησιμοποιήσω την πλατφόρμα του GitHub, γιατί μου αρέσει το μινιμαλιστικό λιτό στυλ της.
-
-Αρχικά, θα μεταφέρω εδώ κάποιες από τις αναρτήσεις που κάνω στο Facebook. Αλλά με τον καιρό ελπίζω να βάζω εδώ τα σημαντικότερα πράγματα που έχω να πω.
+I have selected to use the GitHub platform, because I like its minimalistic style.
