@@ -7,8 +7,7 @@ url: "http://mwysis.github.io" # the base hostname & protocol for your site
 facebook_username: moses.boudourides
 twitter_username: mosabou
 # github_username:  mwysis
-github_username:  mboudour
-github_username:  mwysis
+github_username:  mboudour, mwysis
 
 # Build settings
 markdown: kramdown  
