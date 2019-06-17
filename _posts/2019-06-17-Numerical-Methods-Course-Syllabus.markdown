@@ -28,7 +28,7 @@ CL05. Work-out the numerical solution of a real-world problem by integrating tog
 <h4>Teaching and learning methods:</h4>
 Each week will be divided in two parts: 
 
-.	The lecture.
+.	The lecture.<br />
 .	The computational exploration and experimentation.
 
 During the first part and most of the second part, the instructor will deliver lectures and engage in discussions with students, answering questions or suggesting additional literature to those interested in going further in those directions. The remaining second part will include a demonstration of various exploratory computations, visualizations, simulations and experiments illustrating from a practical point of view the week’s discussion topics and also covering further assistance to the implementation of that week’s homework assignment. During both parts, students will be prompted to practice on the covered computational methodologies by running examples of these computations and textbook exercises on their own laptops (or possibly at a computer lab). 
@@ -48,7 +48,7 @@ Required textbooks:
 
 The course entails two types of assignments:
 
-•	Reading assignment.
+•	Reading assignment.<br />
 •	Computational assignment (homework).
 
 The reading assignment will correspond to selected chapters or sections from the course textbooks and the suggested reading. Moreover, there will be some other auxiliary material (in the form of slides, publications or excerpts from various published volumes) that will be given the week before the one it will be discussed in class. The due date for students finishing the reading assignment will be on every Monday during the semester (or the day before the first session of the course), as this is the material that will be presented, discussed and used in computational explorations during that week.
@@ -68,51 +68,51 @@ The papers of the students’ final projects will be presented at an open event 
 
 The final grade will consist of the following:
 
-•	Homeworks: 30%
-•	Attendance and participation: 5%
-•	Midterm: 30%
+•	Homeworks: 30%<br />
+•	Attendance and participation: 5%<br />
+•	Midterm: 30%<br />
 •	Final project: 35%
 
 <h4>Tentative course schedule:</h4>
 
 *	Week 1: Fundamentals and Solving Equations (including instructions how to use Python and the Jupyter Notebook, and discussion on the topics of final projects)<br />
- o	Reading assignment: Sauer, Chapters 0 and 1
- o	Homework assignment: Fundamentals and Solving Scalar Equations
+ o	Reading assignment: Sauer, Chapters 0 and 1<br />
+ o	Homework assignment: Fundamentals and Solving Scalar Equations<br />
 *	Week 2: Solving Systems of Equations (I) (including discussion on the topics of final projects, and instructions how to use Python and the Jupyter Notebook) <br />
- o	Reading assignment: Sauer, Chapter 2.1-2.4 
- o	Homework assignment: Solving Systems of Equations (I)
+ o	Reading assignment: Sauer, Chapter 2.1-2.4 <br />
+ o	Homework assignment: Solving Systems of Equations (I)<br />
 *	Week 3: Solving Systems of Equations (II) (including instructions how to use Python and the Jupyter Notebook, and discussion on the topics of final projects)<br />
- o	Reading assignment: Sauer, Chapter 2.5-2.6
- o	Homework assignment: Solving Systems of Equations (II)
+ o	Reading assignment: Sauer, Chapter 2.5-2.6<br />
+ o	Homework assignment: Solving Systems of Equations (II)<br />
 *	Week 4: Interpolation (I) (deadline for the formation of teams)<br />
- o	Reading assignment: Sauer, Chapter 3.1-3.2
- o	Homework assignment: Interpolation (I)
+ o	Reading assignment: Sauer, Chapter 3.1-3.2<br />
+ o	Homework assignment: Interpolation (I)<br />
 *	Week 5: Interpolation (II) <br />
- o	Reading assignment: Sauer, Chapter 3.3-3.4
- o	Homework assignment: Interpolation (II)
+ o	Reading assignment: Sauer, Chapter 3.3-3.4<br />
+ o	Homework assignment: Interpolation (II)<br />
 *	Week 6: Least Squares <br />
- o	Reading assignment: Chapter 4.1-4.4
- o	Homework assignment: Least Squares and QR factorization
+ o	Reading assignment: Chapter 4.1-4.4<br />
+ o	Homework assignment: Least Squares and QR factorization<br />
 *	Week 7: Numerical Differentiation and Integration <br />
- o	Reading assignment: 5.1-5.2, 5.5
- o	Homework assignment: Numerical Differentiation and Integration
- o	*Midterm Exam*: On the material of weeks 1-6.
+ o	Reading assignment: 5.1-5.2, 5.5<br />
+ o	Homework assignment: Numerical Differentiation and Integration<br />
+ o	*Midterm Exam*: On the material of weeks 1-6.<br />
 *	Week 8: Ordinary Differential Equations  <br />
- o	Reading assignment: Sauer, Chapter 6.1-6.4
- o	Homework assignment: Experiments on network influence
+ o	Reading assignment: Sauer, Chapter 6.1-6.4<br />
+ o	Homework assignment: Experiments on network influence<br />
 *	Week 9: Boundary Value Problems<br />
- o	Reading assignment: Sauer, Chapter 7
- o	Homework assignment: Boundary Value Problems
+ o	Reading assignment: Sauer, Chapter 7<br />
+ o	Homework assignment: Boundary Value Problems<br />
 *	Week 10: Partial Differential Equations (I) <br />
- o	Reading assignment: Sauer, Chapter 8.1-8.2
- o	Homework assignment: Partial Differential Equations (I)
+ o	Reading assignment: Sauer, Chapter 8.1-8.2<br />
+ o	Homework assignment: Partial Differential Equations (I)<br />
 *	Week 11: Partial Differential Equations (II) <br />
- o	Reading assignment: Sauer, Chapter 8.3-8.4
- o	Homework assignment: Partial Differential Equations (II)
+ o	Reading assignment: Sauer, Chapter 8.3-8.4<br />
+ o	Homework assignment: Partial Differential Equations (II)<br />
 *	Week 12: The Fourier Transform <br />
- o	Reading assignment: Sauer, Chapter 10.1-10.2
- o	Homework assignment: The Fourier Transform
+ o	Reading assignment: Sauer, Chapter 10.1-10.2<br />
+ o	Homework assignment: The Fourier Transform<br />
 *	Week 13: Eigenvalues and Singular Values <br />
- o	Reading assignment: Sauer, Chapter 12
- o	Homework assignment: Eigenvalues and Singular Values
+ o	Reading assignment: Sauer, Chapter 12<br />
+ o	Homework assignment: Eigenvalues and Singular Values<br />
 *	Week 14: Course wrap-up and finalization of students’ projects
