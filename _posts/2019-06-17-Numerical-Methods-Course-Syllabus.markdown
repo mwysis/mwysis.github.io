@@ -7,10 +7,12 @@
 **Office: TBA**<br />
 **Office Hours: TBA**
 
-Course description:
+<h4>Course description:</h4>
+
 This course explores how calculus and linear algebra problems can be solved, at least in an approximated form, using numerical methods. As such, the subject has very broad applications in applied mathematics, physics, engineering, social and life sciences. Topics covered in this course include algorithms for solving linear and nonlinear equations, least squares problems, interpolation, numerical quadrature, ordinary and partial differential equations. Theory and practical examples are combined to study these topics.
  
-Learning outcomes:
+<h4>Learning outcomes:</h4>
+
 Upon successful completion of this course, students will be able to apply efficient numerical methods to solve problems arising in applied mathematics, physics, engineering, social and life sciences. In particular, students will be able to:
 
 CL01. Understand how computers store and manipulate numbers, and the impact that this has on arithmetic calculations. Understand the notion of backward and forward errors, and of condition number.
@@ -23,7 +25,7 @@ CL04. Solve ordinary differential equations, both as initial value problems and 
 
 CL05. Work-out the numerical solution of a real-world problem by integrating together the knowledge acquired with the previous learning outcome, and present the results to colleagues.
 
-Teaching and learning methods:
+<h4>Teaching and learning methods:</h4>
 Each week will be divided in two parts: 
 .	The lecture.
 .	The computational exploration and experimentation.
@@ -34,11 +36,13 @@ There will be a class midterm exam during the second part of week 7, consisting 
 Over the course of the semester, students will also be required to work on a project and present it in front of the class on the last day of the course. They will also be asked to submit individual written reports of their project in order to achieve a deeper understanding of and ability to explain the course’s main concepts.  
 Python will be used as a tool for implementing the numerical methods and is necessary for all the weekly homework assignments and for the final project. Though students do not need to possess any previous skills in Python, they are expected to familiarize themselves on the basics of this language. For these purpose, students are required to install the Jupyter Notebook application on their computers so that they might be able to use computations (most of which will be already coded and provided by the professor). In the first three weeks of the course, students will be guided through the use of Python, as well as the required installation and use of Jupyter Notebooks.
 
-Course materials:
+<h4>Course materials:</h4>
+
 Required textbooks:
 •	Sauer, T., Numerical Analysis, 2nd Edition, Pearson, 2014. 
 
-Assignments and Homeworks:
+<h4>Assignments and Homeworks:</h4>
+
 The course entails two types of assignments:
 •	Reading assignment.
 •	Computational assignment (homework).
@@ -46,7 +50,8 @@ The reading assignment will correspond to selected chapters or sections from the
 
 The homework assignment will be given as a Jupyter Notebook, which will include the Python code for the implementation of various network computations and visualizations. Students are not expected to be able to program in Python. During the first two weeks of the course, instructions will be given to install and use Jupyter Notebooks in their own laptops or personal computers. In every week’s Jupyter Notebook of the homework assignment, students will be asked to work (meaning to re-run) the existing (already coded) computations in the Notebook possibly changing a few parameters in the exhibited code (mostly about the type of networks and some display features of graphics or visualizations). In this way, though their work on the Jupyter Notebooks of the homework assignments, students are expected to experiment with a number of computational scenarios discussed during the lecture part and, eventually, to reach the goal of “learning by doing” in order to be able to master the learning objectives of the course. The homework assignments will be due on every Friday during the semester. Notice that as all homework assignments are in the form of Jupyter Notebooks, students need only to submit them electronically (either through NYU Classes or by email to the instructor).
 
-Final Project:
+<h4>Final Project:</h4>
+
 There will be no final written exam. Instead students are expected to complete a final project. This will be either an individual project or a team project in groups of two students. The topics of the project will be introduced during the course overview in the first week and further discussed in the second week. Projects will be assigned to students before the fourth week. Depending on the topic of the project, most of the course computations and assignments will scaffold up toward the final project. The deliverables of the final project (due the last week of the course) are the following:
 
 (i)	A paper (report), double-spaced with a ten-page maximum, including (1) a summary and problem definition, (2) discussion of the research design, the theoretical problem and numerical methods employed, (3) review of results, and (4) the scientific literature used in the project or covering similar investigations. The paper must be provided as an Adobe Acrobat pdf.
@@ -59,7 +64,8 @@ The final grade will consist of the following:
 •	Midterm: 30%
 •	Final project: 35%
 
-Tentative course schedule:
+<h4>Tentative course schedule:</h4>
+
 Week 1: Fundamentals and Solving Equations (including instructions how to use Python and the Jupyter Notebook, and discussion on the topics of final projects)
 Reading assignment: Sauer, Chapters 0 and 1
 Homework assignment: Fundamentals and Solving Scalar Equations
