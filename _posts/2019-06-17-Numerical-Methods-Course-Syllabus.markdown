@@ -1,8 +1,8 @@
 **Course title: Numerical Methods**<br />
 **Credits: 4.0**<br /> 
-**Prereqs: 
-•	MATH-UH 1020 or MATH-UH 1021, Multivariable Calculus
-•	MATH-UH 1022, Linear Algebra 
+**Prereqs:**<br /> 
+•	**MATH-UH 1020 or MATH-UH 1021, Multivariable Calculus**<br />
+•	**MATH-UH 1022, Linear Algebra**<br /> 
 **Faculty: Moses Boudourides**<br />
 **Office: TBA**<br />
 **Office Hours: TBA**
