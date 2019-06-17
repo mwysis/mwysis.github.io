@@ -42,7 +42,7 @@ Python will be used as a tool for implementing the numerical methods and is nece
 
 <h4>Course materials:</h4>
 
-Required textbooks:
+Required textbook:
 
 •	Sauer, T., Numerical Analysis, 2nd Edition, Pearson, 2014. 
 
