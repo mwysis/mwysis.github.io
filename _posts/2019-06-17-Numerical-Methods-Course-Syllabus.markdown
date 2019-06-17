@@ -26,6 +26,7 @@ CL04. Solve ordinary differential equations, both as initial value problems and 
 CL05. Work-out the numerical solution of a real-world problem by integrating together the knowledge acquired with the previous learning outcome, and present the results to colleagues.
 
 <h4>Teaching and learning methods:</h4>
+
 Each week will be divided in two parts: 
 
 .	The lecture.<br />
@@ -42,6 +43,7 @@ Python will be used as a tool for implementing the numerical methods and is nece
 <h4>Course materials:</h4>
 
 Required textbooks:
+
 •	Sauer, T., Numerical Analysis, 2nd Edition, Pearson, 2014. 
 
 <h4>Assignments and Homeworks:</h4>
