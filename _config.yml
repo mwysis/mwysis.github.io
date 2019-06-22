@@ -4,7 +4,7 @@ email: Moses.Boudourides@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mwysis.github.io" # the base hostname & protocol for your site
-facebook_username: moses.boudourides
+facebook: moses.boudourides
 twitter_username: mosabou
 # github_username:  mwysis
 github_username:  mboudour
